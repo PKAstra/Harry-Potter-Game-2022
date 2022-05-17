@@ -17,6 +17,7 @@ public class SortingHat {
      */
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
+        Screen screen = new Screen();
         String studentName;
         String isBrave;
         String isLoyal="";
@@ -47,6 +48,7 @@ public class SortingHat {
                     else if (lastQuestion.equals("power")){
                         System.out.println("Well " + studentName + ", looks like you're a Slytherin!");
                     }
+                    screen.pause();
     }
     
 }

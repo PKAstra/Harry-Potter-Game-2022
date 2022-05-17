@@ -1,1 +1,1 @@
-java -jar "C:\Users\William\Documents\NetBeansProjects\SortingHat\dist\SortingHat.jar"
+java -jar SortingHat.jar
