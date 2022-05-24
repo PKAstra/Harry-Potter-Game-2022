@@ -1,4 +1,3 @@
-
 package sortinghat;
 
 import java.io.IOException;
